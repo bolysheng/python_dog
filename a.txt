@@ -6,5 +6,7 @@ reset
 create a new branch
 add a new branch liang1
 add new branch liang2
+try the diff command
+add diff again
 
 
