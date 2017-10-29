@@ -1,4 +1,6 @@
 sohu
 add new line in b.txt 1
+new line 1 in b.txt in bug_fix_1 branch
+
 
 
