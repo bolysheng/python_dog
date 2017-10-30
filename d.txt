@@ -2,6 +2,8 @@
 I am d.txt
 
 I check the content between different branch for d.txt file
+bug_fix_1 new line in d.txt file
+
 
 
 
